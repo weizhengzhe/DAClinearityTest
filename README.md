@@ -37,7 +37,7 @@ This project tests the static performance of the DAC. If you are interested in d
     
  - Sample output: 
  
- <img src="img/INLTest.png" width=400>
+ <img src="img/INLTest1.png" width=400>
  
  #### Graph non-monotonic region
  - What it means?
@@ -47,5 +47,5 @@ This project tests the static performance of the DAC. If you are interested in d
     
  - Sample output: 
  
- <img src="img/monotonicity.png" width=600>
+ <img src="img/monotonicity.png" width=800>
  

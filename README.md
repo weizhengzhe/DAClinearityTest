@@ -36,7 +36,8 @@ This project tests the static performance of the DAC. If you are interested in d
    - The software sweeps through the DAC's output level from the lowest to highest at selected inverval. The output of the DAC is compared to the ideal perfectly straight line on a plot
     
  - Sample output: 
- <img src="img/INLTest.png" width=400>
+ 
+ <img src="img/INL.png" width=400>
  
  #### Graph non-monotonic region
  - What it means?
